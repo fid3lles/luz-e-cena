@@ -1,0 +1,11 @@
+.link {
+    text-decoration: none;
+    color: var(--preto);
+    display: inline-block; 
+    transform-origin: center;
+    transition: transform 150ms ease;
+}
+
+.link:hover {
+    transform: scale(1.2);
+}
