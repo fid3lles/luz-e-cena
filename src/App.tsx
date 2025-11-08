@@ -8,9 +8,9 @@ function App() {
   return (
     <>
       <Header />
-      <Banner src="../public/Imagens/Banner Desktop.png" alt="Banner" />
+      <Banner src="../luz-e-cena/public/Imagens/Banner Desktop.png" alt="Banner" />
       <MovieSection />
-      <Banner src="../public/Imagens/Banner Combo Desktop.png" alt="Combo" />
+      <Banner src="../luz-e-cena/public/Imagens/Banner Combo Desktop.png" alt="Combo" />
       <Newsletter />
       <Footer />
     </>

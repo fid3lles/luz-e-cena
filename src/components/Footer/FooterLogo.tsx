@@ -4,7 +4,7 @@ import styles from "./Footer.module.css"
 const FooterLogo = () => {
   return (
     <div className={styles.logo}>
-        <Logo src="../../../public/Logo e Favicon/logo_branco.png" alt="Logo" />
+        <Logo src="../../../luz-e-cena/public/Logo e Favicon/logo_branco.png" alt="Logo" />
         <p>Onde a realidade encontra a fantasia!</p>
     </div>
   )

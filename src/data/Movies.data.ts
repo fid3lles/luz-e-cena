@@ -3,7 +3,7 @@ import type { Movie } from "../types/Movie.interface";
 export const movies: Movie[] = [
   {
     id: 1,
-    src: "../../public/Imagens/capas_de_filmes/amanhecer.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/amanhecer.png",
     alt: "Imagem do filme Amanhecer",
     title: "Amanhecer",
     category: "2D",
@@ -13,7 +13,7 @@ export const movies: Movie[] = [
   },
   {
     id: 2,
-    src: "../../public/Imagens/capas_de_filmes/amigo_da_sombra.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/amigo_da_sombra.png",
     alt: "Imagem do filme Amigo da sombra",
     title: "Amigo da sombra",
     category: "2D",
@@ -23,7 +23,7 @@ export const movies: Movie[] = [
   },
   {
     id: 3,
-    src: "../../public/Imagens/capas_de_filmes/amigos_do_bosque_magico.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/amigos_do_bosque_magico.png",
     alt: "Imagem do filme Amigo do bosque mágico",
     title: "Amigo do bosque mágico",
     category: "2D",
@@ -33,7 +33,7 @@ export const movies: Movie[] = [
   },
   {
     id: 4,
-    src: "../../public/Imagens/capas_de_filmes/caminho_para_o_abismo.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/caminho_para_o_abismo.png",
     alt: "Imagem do filme Caminho para o abismo",
     title: "Caminho para o abismo",
     category: "2D",
@@ -43,7 +43,7 @@ export const movies: Movie[] = [
   },
   {
     id: 5,
-    src: "../../public/Imagens/capas_de_filmes/desastres_do_escritorio.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/desastres_do_escritorio.png",
     alt: "Imagem do filme Desastres do Escritório",
     title: "Desastres do Escritório",
     category: "2D",
@@ -53,7 +53,7 @@ export const movies: Movie[] = [
   },
   {
     id: 6,
-    src: "../../public/Imagens/capas_de_filmes/mestres_do_futuro.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/mestres_do_futuro.png",
     alt: "Imagem do filme Mestres do Futuro",
     title: "Mestres do Futuro",
     category: "2D",
@@ -63,7 +63,7 @@ export const movies: Movie[] = [
   },
   {
     id: 7,
-    src: "../../public/Imagens/capas_de_filmes/la_Esperanza.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/la_Esperanza.png",
     alt: "Imagem do filme La Esperanza",
     title: "La Esperanza",
     category: "2D",
@@ -73,7 +73,7 @@ export const movies: Movie[] = [
   },
   {
     id: 8,
-    src: "../../public/Imagens/capas_de_filmes/o_nexus_do_tempo.png",
+    src: "../../luz-e-cena/public/Imagens/capas_de_filmes/o_nexus_do_tempo.png",
     alt: "Imagem do filme O nexus do tempo",
     title: "O nexus do tempo",
     category: "3D",

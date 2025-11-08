@@ -9,7 +9,7 @@ const Header = () => {
     <header>
       <HeaderList>
         <HeaderListItem>
-          <Logo src="../../../public/Logo e Favicon/logo_preto.png" alt="Logo" />
+          <Logo src="../../../luz-e-cena/public/Logo e Favicon/logo_preto.png" alt="Logo" />
         </HeaderListItem>
         <HeaderListItem>
           <HeaderFormFilters />
